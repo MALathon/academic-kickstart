@@ -19,7 +19,7 @@ interests:
   - Artificial Intelligence
   - Biomedical Optics
   - Algorithms
-  - Medical Devices.
+  - Medical Devices
 social:
   - icon: envelope
     icon_pack: fas
