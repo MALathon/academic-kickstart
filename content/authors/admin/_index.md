@@ -1,75 +1,52 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Stanford University
+    url: ""
+  - name: University of Rochester
+  - name: Biomedical Engineering Society
+  - name: American Physical Society
+  - name: International Society for Optics and Photonics (SPIE)
+  - name: Abbott
+superuser: true
+authors:
+  - admin
+title: Mark Lifson
+role: Data Scientist
+bio: My research interests include the development of medical devices,
+  point-of-care diagnostics, and biomedical optics. My hobbies involve tinkering
+  with robots, software, and roguelike game development.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Artificial Intelligence
+  - Biomedical Optics
+  - Algorithms
+  - Medical Devices.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=XcmXXZcAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/malathon
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Biomedical Engineering
+      institution: University of Rochester
+      year: 2014
+    - course: MS in Biomedical Engineering
+      institution: University of Rochester
+      year: 2009
+    - course: BS in Computer Engineering
+      institution: Rochester Institute of Technology
+      year: 2008
+email: mlifson@gmail.com
 user_groups:
-- Researchers
-- Visitors
+  - ""
 ---
+Mark holds a PhD in biomedical engineering from the University of Rochester focused on understanding useful properties of nanomaterials and how best to leverage them to interact with and understand biological systems. He continued his education with a postdoctoral fellowship at Stanford, working on developing novel point-of-care diagnostics. Mark's work led him to his current position as data scientist and medical scientific affairs manager at Abbott, where he works full-time on researching and developing novel hematology products. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He is currently focusing on developing his teaching and mentorship talents, designing courses focused on his experience with diagnostics, biomedical optics, and computer algorithms for biology. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mark has one child (and another on the way!), with a beautiful wife and two claw-y cats. In his downtime he likes to play video games (especially roguelikes!), and would like to one day develop his own masterpiece roguelike.
