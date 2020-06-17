@@ -14,23 +14,34 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "fa-python"
-  icon_pack = "fab"
-  name = "Python"
   
 [[feature]]
-  icon = "fa-robot"
+  icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  
+
 [[feature]]
-  icon = "fa-microscope"
+  icon = "stethoscope"
+  icon_pack = "fas"
+  name = "Medical Devices"
+
+[[feature]]
+  icon = "microscope"
   icon_pack = "fas"
   name = "Biomedical Engineering"
 
-  [[feature]]
-  icon = "fa-jedi"
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
+
+[[feature]]
+  icon = "gamepad"
+  icon_pack = "fas"
+  name = "Video Games"
+
+[[feature]]
+  icon = "jedi"
   icon_pack = "fas"
   name = "Jedi"
 
